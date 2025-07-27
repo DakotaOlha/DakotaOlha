@@ -1,5 +1,5 @@
 # 🙋🏻‍♀️ About Me:
-I'm a full-stack developer who uses **Java**, *HTML*, *CSS*, *SCSS*, and *JS*. I create interesting projects and am looking for a new job to learn something new.
+I'm a full-stack developer who uses *Java*, *HTML*, *CSS*, *SCSS*, and *JS*. I create interesting projects and am looking for a new job to learn something new.
 
 
 # 🌐 Socials:
